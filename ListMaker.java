@@ -13,6 +13,7 @@ public class ListMaker
 
         while(!quit)
         {
+            System.out.println();
             System.out.println("A – Add an item to the list\n" +
                     "D – Delete an item from the list\n" +
                     "I – Insert an item into the list\n" +
